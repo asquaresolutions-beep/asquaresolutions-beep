@@ -43,8 +43,8 @@ Real-world AI implementation playbooks, systems, and automation labs.
 
 ### 🧰 A Square Tools
 Free browser-based utilities — QR code generator, image-to-PDF converter, and more.
-[![A Square Tools](https://img.shields.io/badge/Visit-A%20Square%20Tools-818cf8?style=flat-square&logo=toolbox&logoColor=white)](https://tools.asquaresolution.com)
-<br>https://tools.asquaresolution.com
+[![A Square Tools](https://img.shields.io/badge/Visit-A%20Square%20Tools-818cf8?style=flat-square&logo=gnometerminal&logoColor=white)](https://asquaresolution.com/free-qr-code-generator/)
+<br>https://asquaresolution.com/free-qr-code-generator/
 
 ---
 
