@@ -27,13 +27,13 @@ Building AI-powered products, digital systems, and web experiences.
 ## 🚀 Products
 
 ### 🛡️ ScamCheck
-AI-powered scam detection platform.
-[![ScamCheck](https://img.shields.io/badge/Visit-ScamCheck-38bdf8?style=flat-square&logo=shield&logoColor=white)](https://scamcheck.asquaresolution.com)
+Free AI scam detection — scan messages, links, emails, phone numbers & screenshots for phishing and fraud, in English, Hindi & Spanish.
+[![ScamCheck](https://img.shields.io/badge/Visit-ScamCheck-38bdf8?style=flat-square&logo=shieldsdotio&logoColor=white)](https://scamcheck.asquaresolution.com)
 <br>https://scamcheck.asquaresolution.com
 
 ### ✅ TrustSeal
-AI-powered fact-checking and verification platform.
-[![TrustSeal](https://img.shields.io/badge/Visit-TrustSeal-6366f1?style=flat-square&logo=verifiedicon&logoColor=white)](https://trustseal.asquaresolution.com)
+Business trust verification — turn domain ownership & reputation signals into a verifiable trust score, with embeddable badges, tamper-evident certificates, and a public Trust API.
+[![TrustSeal](https://img.shields.io/badge/Visit-TrustSeal-6366f1?style=flat-square&logo=letsencrypt&logoColor=white)](https://trustseal.asquaresolution.com)
 <br>https://trustseal.asquaresolution.com
 
 ### 🧪 AI Execution Lab
@@ -41,9 +41,9 @@ Real-world AI implementation playbooks, systems, and automation labs.
 [![AI Execution Lab](https://img.shields.io/badge/Visit-AI%20Execution%20Lab-22d3ee?style=flat-square&logo=readthedocs&logoColor=white)](https://lab.asquaresolution.com)
 <br>https://lab.asquaresolution.com
 
-### 🧰 ASS Tools
-Utility tools and productivity applications.
-[![ASS Tools](https://img.shields.io/badge/Visit-ASS%20Tools-818cf8?style=flat-square&logo=tools&logoColor=white)](https://tools.asquaresolution.com)
+### 🧰 A Square Tools
+Free browser-based utilities — QR code generator, image-to-PDF converter, and more.
+[![A Square Tools](https://img.shields.io/badge/Visit-A%20Square%20Tools-818cf8?style=flat-square&logo=toolbox&logoColor=white)](https://tools.asquaresolution.com)
 <br>https://tools.asquaresolution.com
 
 ---
