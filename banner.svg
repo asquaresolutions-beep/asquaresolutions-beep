@@ -25,11 +25,10 @@
   <circle cx="1080" cy="60" r="220" fill="#6366f1" fill-opacity="0.12"/>
   <circle cx="180" cy="300" r="200" fill="#38bdf8" fill-opacity="0.10"/>
 
-  <!-- logo mark: A² square -->
+  <!-- logo mark: A monogram -->
   <g transform="translate(80,96)">
     <rect width="128" height="128" rx="26" fill="url(#logo)"/>
-    <text x="64" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" fill="#0b1220" text-anchor="middle">A</text>
-    <text x="100" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#0b1220" text-anchor="middle">2</text>
+    <text x="64" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="80" font-weight="800" fill="#0b1220" text-anchor="middle">A</text>
   </g>
 
   <!-- wordmark -->
@@ -54,8 +53,8 @@
       <text x="100" y="29" fill="#a5f3fc" text-anchor="middle">AI Execution Lab</text>
     </g>
     <g transform="translate(782,250)">
-      <rect width="130" height="44" rx="22" fill="#ffffff" fill-opacity="0.05" stroke="#818cf8" stroke-opacity="0.30"/>
-      <text x="65" y="29" fill="#ddd6fe" text-anchor="middle">ASS Tools</text>
+      <rect width="184" height="44" rx="22" fill="#ffffff" fill-opacity="0.05" stroke="#818cf8" stroke-opacity="0.30"/>
+      <text x="92" y="29" fill="#ddd6fe" text-anchor="middle">A Square Tools</text>
     </g>
   </g>
 
