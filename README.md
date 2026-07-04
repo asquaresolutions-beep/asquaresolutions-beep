@@ -27,7 +27,7 @@ Building AI-powered products, digital systems, and web experiences.
 ## 🚀 Products
 
 ### 🛡️ ScamCheck
-Free AI scam detection — scan messages, links, emails, phone numbers & screenshots for phishing and fraud, in English, Hindi & Spanish.
+Free AI scam detection — no sign-up. Its **[screenshot checker](https://scamcheck.asquaresolution.com/screenshot-scam-checker)** flags fake payment screenshots (Venmo, Cash App, Zelle, PayPal & bank transfers) in seconds; it also checks messages, links, emails & phone numbers. English, Hindi & Spanish, with a published [methodology](https://scamcheck.asquaresolution.com/methodology).
 [![ScamCheck](https://img.shields.io/badge/Visit-ScamCheck-38bdf8?style=flat-square&logo=shieldsdotio&logoColor=white)](https://scamcheck.asquaresolution.com)
 <br>https://scamcheck.asquaresolution.com
 
